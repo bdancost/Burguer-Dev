@@ -189,7 +189,6 @@ function checkRestaurantOpen(){
 
 const spanItem = document.getElementById("date-span")
 const isOpen = checkRestaurantOpen();
-
 if(isOpen){
     spanItem.classList.remove("bg-red-500");
     spanItem.classList.add(bg-green-600)
