@@ -1,5 +1,5 @@
 
 *.html linguist-language=ignore
 *.css linguist-language=ignore
-*.css linguist-detectable=TailwindCSS
+*.js linguist-detectable=true
 
