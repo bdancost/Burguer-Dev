@@ -1,3 +1,4 @@
-*.css linguist-language=TailwindCSS
+*.css linguist-detectablee=TailwindCSS
 *.js linguist-vendored
-*.html linguist-vendored
+*.css linguist-vendored
+
